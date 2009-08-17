@@ -1,7 +1,8 @@
 1329 mi / 15mpg = 88.6 gallons 
     * $3.50/gal = $310.10 
-        * 2 = $620.20 (gas round-trip)
+    * 2 = $620.20 (gas round-trip)
 
 RV Cost = ~$1300 (7 days) 
     + $0.35/mile (1658miles (first 1000 free) = $580.30) = $1880 
-    + 620.20 (gas) = $2500 / 6 (people) = $416.67 (total per person)
+    + 620.20 (gas) = $2500 
+    / 6 (people) = $416.67 (total per person)
