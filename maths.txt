@@ -6,3 +6,30 @@ RV Cost = ~$1300 (7 days)
     + $0.35/mile (1658miles (first 1000 free) = $580.30) = $1880 
     + 620.20 (gas) = $2500 
     / 6 (people) = $416.67 (total per person)
+
+---
+
+Van Version
+1329 mi / 12 mpg =  110.75
+    * 3.00/gal = $332.25
+    * 2 = $664.5 (gas round-trip)
+
+Van Cost = $0 (7 days)
+
+Washington D.C. Hotel Cost
+    $60 per room
+    * 2 = $120
+
+Rhode Island Hotel Cost
+    $ 110 per room
+    * 2 = $220
+    * 2 nights = $440
+
+Total Cost = $664.5 + $120 + $440 = $1224.5
+    / 5 people = $244.90
+
+
+Goal: Collect $275 per person
+    = $1375.00
+
+Allows float of $150.50 for extra expenses
